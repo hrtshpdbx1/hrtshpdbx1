@@ -4,6 +4,7 @@
 
 I build robust, meaningful, and accessible web experiences for everyone. Currently refining my craft at **Interface3** (Brussels), I bridge the gap between high-end visual design and inclusive technical architecture.
 🚀 **I am currently looking for an 8 to 12-week internship starting June 2026.** I’m eager to bring my technical skills and my "care" mindset to a team building meaningful and inclusive digital products.
+
 ---
 
 ### 🔭 I’m currently working on
@@ -32,8 +33,8 @@ I build robust, meaningful, and accessible web experiences for everyone. Current
 
 ### ⚡ Fun fact
 When I'm not optimizing keyboard navigation, you'll probably find me wandering the streets of **Brussels**, hunting for the cutest street pups for my project: [📸 **@bxl_petitchien**](https://www.instagram.com/bxl_petitchien/). 
-
 Aside from dog stalking, I’m deeply into **scuba diving**, **Queer Studies**, and **hacker ethics**.
+
 ---
 
 ### 🛠 Tech Stack & Tools
