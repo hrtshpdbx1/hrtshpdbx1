@@ -1,5 +1,6 @@
 # Hi there 👋 I'm Louise
-<img width="1641" height="624" alt="BannerHomepage3@2x" src="https://github.com/user-attachments/assets/f7345928-848b-4f66-a79d-ddfa0bdeb264" />
+
+<img width="821" height="300" alt="Homepagebanner@2x" src="https://github.com/user-attachments/assets/280f9700-6e41-4415-be69-680324f49650" />
 
 I build robust, meaningful, and accessible web experiences for everyone. Currently refining my craft at **Interface3** (Brussels), I bridge the gap between high-end visual design and inclusive technical architecture.
 🚀 **I am currently looking for an 8 to 12-week internship starting June 2026.** I’m eager to bring my technical skills and my "care" mindset to a team building meaningful and inclusive digital products.
