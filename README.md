@@ -3,20 +3,21 @@
 <img src="https://github.com/user-attachments/assets/280f9700-6e41-4415-be69-680324f49650" alt="Homepagebanner" width="100%" />
 
 
-I build robust, meaningful, and accessible web experiences for everyone. Currently refining my craft at **Interface3** (Brussels), I bridge the gap between high-end visual design and inclusive technical architecture.
-🚀 **I am currently looking for an 8 to 12-week internship starting June 2026.** I’m eager to bring my technical skills and my "care" mindset to a team building meaningful and inclusive digital products.
 
+### *I build robust, meaningful, and accessible web experiences for everyone. Currently refining my craft at **[Interface3*](https://interface3.be/fr/se-former-pour-l-emploi/it-training-formations-en-informatique/full-stack-javascript-developer)* (Brussels), I bridge the gap between high-end visual design and inclusive technical architecture.*
+
+###  *🚀 I am currently looking for an 8 to 12-week internship starting June 2026.** I’m eager to bring my technical skills and my "care" mindset to a team building meaningful and inclusive digital products. 
 ---
 
 ### 🔭 I’m currently working on
-- **[Portfolio 2026](https://louisemoraldy.vercel.app/)** 🆕 : Just finished! A laboratory of **a11y-driven design** using mathematical CSS variables and inclusive typography.
+- **[Portfolio 2026](https://louisemoraldy.vercel.app/)** : Just finished! ✨ A laboratory of **a11y-driven design** using mathematical CSS variables and inclusive typography.
 - **[Social Script (v2 Refactoring)](https://social-script-nine.vercel.app/)** ⚙️ : Transitioning from a static tool to a full-stack application. 
     * *Focus:* Implementing a **Node.js/Express backend**, user authentication (JWT), and secure account management, all while maintaining **WCAG AAA** standards.
-- **[PayGap Quest](https://hackathon2025.interface3.be/paygap/Frontend/index.html)** : A dynamic platform raising awareness about sexism in the workplace.
+- **[ReplyToo](https://www.shake.academy/replytoo)** : A collaborative mobile app designed to prevent, quantify, and tackle workplace sexism by empowering employees and gathering anonymous testimonials.
 
 ### 🌱 I’m currently learning
 - Advanced **Node.js** patterns (Authentication, REST APIs, and database architecture with MongoDB).
-- Deepening **Web Accessibility (ARIA)** best practices for complex interactive components.
+- Deepening **Web Accessibility** best practices for complex interactive components.
 
 ### 👯 I’m looking to collaborate on
 - **Open Source projects** focused on social impact, digital ethics, or assistive technologies.
@@ -50,4 +51,3 @@ Aside from dog stalking, I’m deeply into **scuba diving**, **Queer Studies**, 
 ![A11y](https://img.shields.io/badge/Accessibility-WCAG%20AAA-blue?style=flat-square)
 ---
 
-*“Accessibility is not a feature, it’s the starting point.”*
