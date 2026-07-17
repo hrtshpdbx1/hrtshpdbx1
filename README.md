@@ -4,7 +4,7 @@
 
 
 
-### *I build robust, meaningful, and accessible web experiences for everyone. *I bridge the gap between high-end visual design and inclusive technical architecture.*
+### I build robust, meaningful, and accessible web experiences for everyone. I bridge the gap between high-end visual design and inclusive technical architecture.
 
 ###  *🚀 Currently interning as Fullstack Developer at [mAIté](https://becentral.org/) (Brussels), where I bring my technical skills and my "care" mindset to a team building meaningful and inclusive digital products. Always open to connecting with people shaping a more accessible web.*
 ---
