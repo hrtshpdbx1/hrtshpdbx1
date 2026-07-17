@@ -6,18 +6,19 @@
 
 ### *I build robust, meaningful, and accessible web experiences for everyone. Currently refining my craft at* [Interface3*](https://interface3.be/fr/se-former-pour-l-emploi/it-training-formations-en-informatique/full-stack-javascript-developer)(Brussels), *I bridge the gap between high-end visual design and inclusive technical architecture.*
 
-###  *🚀 I am currently looking for an 8 to 12-week internship starting June 2026. I’m eager to bring my technical skills and my "care" mindset to a team building meaningful and inclusive digital products.*
+###  *🚀 Currently interning as Fullstack Developer at [mAIté](https://becentral.org/) (Brussels), where I bring my technical skills and my "care" mindset to a team building meaningful and inclusive digital products. Always open to connecting with people shaping a more accessible web.*
 ---
 
 ### 🔭 I’m currently working on
 - **[Portfolio 2026](https://louisemoraldy.vercel.app/)** : Just finished! ✨ A laboratory of **a11y-driven design** using mathematical CSS variables and inclusive typography.
 - **[Social Script (v2 Refactoring)](https://social-script-nine.vercel.app/)** ⚙️ : Transitioning from a static tool to a full-stack application. 
     * *Focus:* Implementing a **Node.js/Express backend**, user authentication (JWT), and secure account management, all while maintaining **WCAG AAA** standards.
-- **[ReplyToo](https://www.shake.academy/replytoo)** : A collaborative mobile app designed to prevent, quantify, and tackle workplace sexism by empowering employees and gathering anonymous testimonials.
+- **[mAIté](https://www.maite.tech/)** 🏛️ : A public-service navigation tool helping citizens find their way through administrative services (based at BeCentral, Brussels). As **Fullstack Developer Intern**, I'm shaping its visual identity and building an **accessibility-first ReactJS webapp**, backed by a **Python API** with a strong focus on **ethical AI**.
 
 ### 🌱 I’m currently learning
-- Advanced **Node.js** patterns (Authentication, REST APIs, and database architecture with MongoDB).
-- Deepening **Web Accessibility** best practices for complex interactive components.
+- Advanced **Node.js** patterns (Authentication, REST APIs, and database architecture with MongoDB)..
+- Preparing the **[« Développer des sites web accessibles et conformes au RGAA »](https://formations.access42.net/formations/formation-developpement-accessible/)** certification with **Access42** — mastering the French RGAA accessibility standard.
+- The **Agile** methodology, with a certification planned soon.
 
 ### 👯 I’m looking to collaborate on
 - **Open Source projects** focused on social impact, digital ethics, or assistive technologies.
